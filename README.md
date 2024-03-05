@@ -17,7 +17,9 @@ I thrive in environments that encourage creativity, collaboration, and continuou
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" heidgt="50">
 
 ----
-
+## 📈My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaMukhari)](https://github.com/anuraghazra/github-readme-stats)
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DianaMukhari&show_icons=true&theme=radical)
 
 <!--
 **DianaMukhari/DianaMukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
