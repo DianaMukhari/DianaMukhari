@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/PPEBblqDVQQle5WAis/giphy.gif?cid=790b76112azopxgnhllkh9z1sjci5f1qr7aet99kb0rav1p8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"> I am Diana Mukhari!
 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/dianamukhari">  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Dianamukhari">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/dianamukhari">  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Dianamukhari"> <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%9E-0769441872-white">
+
 
 ---
 
